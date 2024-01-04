@@ -1,5 +1,5 @@
 body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     background-color: tan;
 }
@@ -10,15 +10,15 @@ h2{
 }
 
 .name{
- color:  cadetblue;
+ color:  rgb(7, 23, 73);
  font-size: 24px;
  font-weight: 300;
 }
 
 #codeacademy-projects{
-    color: sienna;
+    color: rgb(70, 25, 4);
 }
 
 #mycode{
-    color: seagreen;
+    color: rgb(4, 63, 4);
 }
