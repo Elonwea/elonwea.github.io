@@ -9,4 +9,6 @@ Unless noted otherwise projects are being given by Codecademy.com.
 Excursion Project:
     Off-platform Git/GutHub project from Codecademy.  Was given the following directions  and resources https://www.codecademy.com/projects/practice/f1-excursion 
 
-    
+
+Practice html code
+    HTML code written to show examples and to practice.
