@@ -1,7 +1,7 @@
 body{
     font-family: Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-    background-color: tan;
+    background-color: rgb(255, 255, 211);
 }
 
 h2{
@@ -10,9 +10,18 @@ h2{
 }
 
 .name{
- color:  rgb(7, 23, 73);
+ color:  black;
  font-size: 24px;
  font-weight: 300;
+}
+
+.link-list1{
+    color: sienna;
+    font-size: 16px;
+}
+
+.link-list2{
+    color: darkgreen;
 }
 
 #codeacademy-projects{
