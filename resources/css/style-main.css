@@ -3,6 +3,7 @@ body{
     text-align: center;
     background-color: rgb(255, 255, 211);
     padding: 10px;
+    }
 
 h2{
     font-size: 18px;
@@ -32,17 +33,3 @@ h2{
     color: rgb(4, 63, 4);
 }
 
-button{
-    border: solid 1px;
-    color: #466995;
-    border-radius: 10px;
-    box-shadow: 0px 4px;
-}
-
-button:active{
-    margin-top: 24px;
-    margin-bottom: 16px;
-    box-shadow: 0px 0px;
-    background-color: #c0d6df;
-    color: #fff;
-}
