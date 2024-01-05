@@ -2,6 +2,7 @@ body{
     font-family: Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     background-color: rgb(255, 255, 211);
+    padding-block: 30;
 }
 
 h2{
